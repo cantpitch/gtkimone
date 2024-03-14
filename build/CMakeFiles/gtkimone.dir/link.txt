@@ -1,1 +1,0 @@
-/usr/bin/aarch64-linux-gnu-gcc -g -rdynamic CMakeFiles/gtkimone.dir/main.c.o -o gtkimone 

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/vansloot/Source/gtkimone/build",
-  "command": "/usr/bin/aarch64-linux-gnu-gcc   -g -o CMakeFiles/gtkimone.dir/main.c.o -c /home/vansloot/Source/gtkimone/main.c",
-  "file": "/home/vansloot/Source/gtkimone/main.c"
-}
-]
